@@ -7,7 +7,7 @@
 - 📫 How to reach me:
   +  Connect on *Linkedin*: [Jayanth PSY](https://www.linkedin.com/in/jayanth-p-b3924812a/)
 
-- ⚡ Fun fact: *Python* is older than *C++*. 
+- ⚡ Fun fact: *Python* is older than *C++* and *Java*. 
 
 <!--
 **j-tesla/j-tesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
