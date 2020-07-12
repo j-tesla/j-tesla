@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning :robot: machine learning fundamentals.
+
+- 👯 I’m looking to collaborate on any :snake: *python* project ti improve my coding skills.
+
+- 📫 How to reach me:
+  +  Connect on *Linkedin*: [Jayanth PSY](https://www.linkedin.com/in/jayanth-p-b3924812a/)
+
+- ⚡ Fun fact: *Python* is older than *C++*. 
+
 <!--
 **j-tesla/j-tesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
