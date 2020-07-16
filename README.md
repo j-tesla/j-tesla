@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning :robot: machine learning fundamentals.
 
-- 👯 I’m looking to collaborate on any :snake: *python* project ti improve my coding skills.
+- 👯 I’m looking to collaborate on any :snake: *python* project to improve my coding skills.
 
 - 📫 How to reach me:
   +  Connect on *Linkedin*: [Jayanth PSY](https://www.linkedin.com/in/jayanth-p-b3924812a/)
