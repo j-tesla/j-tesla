@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact: *Python* is older than *C++* and *Java*. 
 
+-----
 
 <p align="center"> 
   Visitor count<br>
