@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#208](https://github.com//benjaminsampica/benjaminsampica/issues/208) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#7](https://github.com//j-tesla/space-shooter/issues/7) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
-4. ❗️ Opened issue [#6](https://github.com//j-tesla/space-shooter/issues/6) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
-5. ❗️ Opened issue [#380](https://github.com//JonathanGin52/JonathanGin52/issues/380) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+1. 🗣 Commented on [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. ❗️ Opened issue [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#208](https://github.com//benjaminsampica/benjaminsampica/issues/208) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#7](https://github.com//j-tesla/space-shooter/issues/7) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
+5. ❗️ Opened issue [#6](https://github.com//j-tesla/space-shooter/issues/6) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
