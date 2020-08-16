@@ -11,8 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: GitHub - Activity - Readme
-        uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
 
       
         env:
