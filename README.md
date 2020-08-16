@@ -13,12 +13,32 @@
 
 <img src="https://wakatime.com/share/@j_tesla/4d0b7d1e-6b31-4b03-accf-374d3ed5433f.png" alt="wakatime language stats" width="700"/>
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 -----
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/j-tesla/count.svg" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **j-tesla/j-tesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
