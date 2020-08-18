@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. ❗️ Opened issue [#208](https://github.com//benjaminsampica/benjaminsampica/issues/208) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
-4. ❗️ Opened issue [#7](https://github.com//j-tesla/space-shooter/issues/7) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
-5. ❗️ Opened issue [#6](https://github.com//j-tesla/space-shooter/issues/6) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
+1. ❗️ Opened issue [#527](https://github.com//OpenGenus/Join_OpenGenus/issues/527) in [OpenGenus/Join_OpenGenus](https://github.com//OpenGenus/Join_OpenGenus)
+2. ❗️ Opened issue [#123](https://github.com//OpenGenus/OpenGenus-Slack/issues/123) in [OpenGenus/OpenGenus-Slack](https://github.com//OpenGenus/OpenGenus-Slack)
+3. 🗣 Commented on [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#11](https://github.com//jamesgeorge007/github-activity-readme/issues/11) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. ❗️ Opened issue [#208](https://github.com//benjaminsampica/benjaminsampica/issues/208) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 </details>
