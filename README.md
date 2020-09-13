@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning :robot: machine learning fundamentals.
+- 🌱 I’m currently studying 🏇🏼  algorithms.
 
 - 👯 I’m looking to collaborate on any :snake: *python* project to improve my coding skills.
 
