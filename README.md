@@ -7,7 +7,7 @@
 - ☕ Get in touch:
   +  Connect on *Linkedin*: [Jayanth PSY](https://www.linkedin.com/in/jayanth-p-b3924812a/)
 
-- ⚡ Fun fact: *Python* is older than *C++* and *Java*. 
+<!--- ⚡ Fun fact: *Python* is older than *C++* and *Java*. -->
 
 - :memo: My favourite language: Isn't it visible?
 
