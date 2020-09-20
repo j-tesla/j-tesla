@@ -9,7 +9,7 @@
 
 <!--- ⚡ Fun fact: *Python* is older than *C++* and *Java*. -->
 
-- :memo: My favourite language: Isn't it visible?
+- :memo: The languages I use: Well, in the last 30 days, this is what I did:
 
 <img src="https://wakatime.com/share/@j_tesla/4d0b7d1e-6b31-4b03-accf-374d3ed5433f.png" alt="wakatime language stats" width="700"/>
 
