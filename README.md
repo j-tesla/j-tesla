@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//j-tesla/space-shooter/issues/9) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
-2. ❗️ Opened issue [#9](https://github.com//j-tesla/space-shooter/issues/9) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
-3. 🗣 Commented on [#1753](https://github.com//giampaolo/psutil/issues/1753) in [giampaolo/psutil](https://github.com//giampaolo/psutil)
-4. ❗️ Opened issue [#1](https://github.com//j-tesla/twitter-bot/issues/1) in [j-tesla/twitter-bot](https://github.com//j-tesla/twitter-bot)
-5. 🎉 Merged PR [#8](https://github.com//j-tesla/space-shooter/pull/8) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
+1. ❗️ Opened issue [#1](https://github.com//j-tesla/tic-tac-toe/issues/1) in [j-tesla/tic-tac-toe](https://github.com//j-tesla/tic-tac-toe)
+2. 🗣 Commented on [#9](https://github.com//j-tesla/space-shooter/issues/9) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
+3. ❗️ Opened issue [#9](https://github.com//j-tesla/space-shooter/issues/9) in [j-tesla/space-shooter](https://github.com//j-tesla/space-shooter)
+4. 🗣 Commented on [#1753](https://github.com//giampaolo/psutil/issues/1753) in [giampaolo/psutil](https://github.com//giampaolo/psutil)
+5. ❗️ Opened issue [#1](https://github.com//j-tesla/twitter-bot/issues/1) in [j-tesla/twitter-bot](https://github.com//j-tesla/twitter-bot)
 <!--END_SECTION:activity-->
 
 </details>
