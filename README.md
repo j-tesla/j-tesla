@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/95ych/this-aint-my-last-ride/issues/2) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
-2. 🗣 Commented on [#10](https://github.com/j-tesla/space-shooter/issues/10) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. ❗️ Opened issue [#2](https://github.com/95ych/this-aint-my-last-ride/issues/2) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
-4. 🗣 Commented on [#1](https://github.com/95ych/this-aint-my-last-ride/issues/1) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
-5. ❗️ Opened issue [#1](https://github.com/j-tesla/tic-tac-toe/issues/1) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
+1. 🗣 Commented on [#74](https://github.com/akshitagit/Python/issues/74) in [akshitagit/Python](https://github.com/akshitagit/Python)
+2. 🗣 Commented on [#1](https://github.com/j-tesla/tic-tac-toe/issues/1) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
+3. ❗️ Closed issue [#2](https://github.com/95ych/this-aint-my-last-ride/issues/2) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
+4. 🗣 Commented on [#10](https://github.com/j-tesla/space-shooter/issues/10) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. ❗️ Opened issue [#2](https://github.com/95ych/this-aint-my-last-ride/issues/2) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
 <!--END_SECTION:activity-->
 
 </details>
