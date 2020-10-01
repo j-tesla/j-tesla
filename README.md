@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/j-tesla/online-judges/pull/7) in [j-tesla/online-judges](https://github.com/j-tesla/online-judges)
-2. ❌ Closed PR [#5](https://github.com/j-tesla/tic-tac-toe/pull/5) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
-3. 🗣 Commented on [#5](https://github.com/j-tesla/tic-tac-toe/issues/5) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
-4. ❗️ Opened issue [#9](https://github.com/j-tesla/tic-tac-toe/issues/9) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
-5. 🎉 Merged PR [#8](https://github.com/j-tesla/online-judges/pull/8) in [j-tesla/online-judges](https://github.com/j-tesla/online-judges)
+1. 💪 Opened PR [#3](https://github.com/95ych/this-aint-my-last-ride/pull/3) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
+2. ❌ Closed PR [#10](https://github.com/j-tesla/space-shooter/pull/10) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🗣 Commented on [#10](https://github.com/j-tesla/space-shooter/issues/10) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. 🎉 Merged PR [#12](https://github.com/j-tesla/space-shooter/pull/12) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. ❗️ Closed issue [#9](https://github.com/j-tesla/space-shooter/issues/9) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
