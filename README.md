@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/j-tesla/space-shooter/issues/1) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-2. 🗣 Commented on [#17](https://github.com/j-tesla/space-shooter/issues/17) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. ❗️ Opened issue [#17](https://github.com/j-tesla/space-shooter/issues/17) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. 🗣 Commented on [#15](https://github.com/j-tesla/space-shooter/issues/15) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 🗣 Commented on [#9](https://github.com/j-tesla/tic-tac-toe/issues/9) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
+1. 🗣 Commented on [#17](https://github.com/j-tesla/space-shooter/issues/17) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+2. ❌ Closed PR [#22](https://github.com/j-tesla/space-shooter/pull/22) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🗣 Commented on [#22](https://github.com/j-tesla/space-shooter/issues/22) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. 🎉 Merged PR [#18](https://github.com/j-tesla/space-shooter/pull/18) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. ❗️ Closed issue [#15](https://github.com/j-tesla/space-shooter/issues/15) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
