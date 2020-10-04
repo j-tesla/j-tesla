@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/95ych/this-aint-my-last-ride/issues/5) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
-2. 🗣 Commented on [#28](https://github.com/j-tesla/space-shooter/issues/28) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. 🗣 Commented on [#28](https://github.com/j-tesla/space-shooter/issues/28) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. ❗️ Closed issue [#31](https://github.com/j-tesla/space-shooter/issues/31) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 🗣 Commented on [#31](https://github.com/j-tesla/space-shooter/issues/31) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. 🗣 Commented on [#1](https://github.com/yashica-patodia/IMPORTANT-SNIPPETS/issues/1) in [yashica-patodia/IMPORTANT-SNIPPETS](https://github.com/yashica-patodia/IMPORTANT-SNIPPETS)
+2. 🗣 Commented on [#34](https://github.com/j-tesla/space-shooter/issues/34) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. ❗️ Opened issue [#5](https://github.com/95ych/this-aint-my-last-ride/issues/5) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
+4. 🗣 Commented on [#28](https://github.com/j-tesla/space-shooter/issues/28) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. 🗣 Commented on [#28](https://github.com/j-tesla/space-shooter/issues/28) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
