@@ -18,9 +18,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#32](https://github.com/j-tesla/space-shooter/issues/32) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-2. 🎉 Merged PR [#35](https://github.com/j-tesla/space-shooter/pull/35) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. ❗️ Closed issue [#34](https://github.com/j-tesla/space-shooter/issues/34) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. 🗣 Commented on [#35](https://github.com/j-tesla/space-shooter/issues/35) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+2. 🗣 Commented on [#32](https://github.com/j-tesla/space-shooter/issues/32) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🎉 Merged PR [#35](https://github.com/j-tesla/space-shooter/pull/35) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. ❗️ Closed issue [#34](https://github.com/j-tesla/space-shooter/issues/34) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 5. 🗣 Commented on [#35](https://github.com/j-tesla/space-shooter/issues/35) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
