@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/j-tesla/kwoc-stats-api/pull/1) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
-2. 🗣 Commented on [#1](https://github.com/kossiitkgp/kwoc-stats-api/issues/1) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+1. 🎉 Merged PR [#1](https://github.com/j-tesla/kwoc-stats-api/pull/1) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
+2. 💪 Opened PR [#1](https://github.com/j-tesla/kwoc-stats-api/pull/1) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
 3. 🗣 Commented on [#1](https://github.com/kossiitkgp/kwoc-stats-api/issues/1) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-4. 🗣 Commented on [#6](https://github.com/j-tesla/space-shooter/issues/6) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 🎉 Merged PR [#9](https://github.com/j-tesla/online-judges/pull/9) in [j-tesla/online-judges](https://github.com/j-tesla/online-judges)
+4. 🗣 Commented on [#1](https://github.com/kossiitkgp/kwoc-stats-api/issues/1) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+5. 🗣 Commented on [#6](https://github.com/j-tesla/space-shooter/issues/6) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
