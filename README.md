@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/95ych/this-aint-my-last-ride/pull/3) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
-2. 💪 Opened PR [#7](https://github.com/95ych/this-aint-my-last-ride/pull/7) in [95ych/this-aint-my-last-ride](https://github.com/95ych/this-aint-my-last-ride)
-3. 🎉 Merged PR [#37](https://github.com/j-tesla/space-shooter/pull/37) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. ❗️ Closed issue [#36](https://github.com/j-tesla/space-shooter/issues/36) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 💪 Opened PR [#37](https://github.com/j-tesla/space-shooter/pull/37) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. 🎉 Merged PR [#42](https://github.com/j-tesla/space-shooter/pull/42) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+2. ❗️ Closed issue [#41](https://github.com/j-tesla/space-shooter/issues/41) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🎉 Merged PR [#43](https://github.com/j-tesla/space-shooter/pull/43) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. 💪 Opened PR [#42](https://github.com/j-tesla/space-shooter/pull/42) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. ❗️ Opened issue [#41](https://github.com/j-tesla/space-shooter/issues/41) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
