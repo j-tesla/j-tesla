@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/j-tesla/space-shooter/issues/7) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-2. 🎉 Merged PR [#47](https://github.com/j-tesla/space-shooter/pull/47) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. ❗️ Closed issue [#44](https://github.com/j-tesla/space-shooter/issues/44) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. 🎉 Merged PR [#48](https://github.com/j-tesla/space-shooter/pull/48) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 💪 Opened PR [#47](https://github.com/j-tesla/space-shooter/pull/47) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. 🗣 Commented on [#1](https://github.com/kossiitkgp/kwoc-stats-api/issues/1) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+2. 🗣 Commented on [#7](https://github.com/j-tesla/space-shooter/issues/7) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🎉 Merged PR [#47](https://github.com/j-tesla/space-shooter/pull/47) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. ❗️ Closed issue [#44](https://github.com/j-tesla/space-shooter/issues/44) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. 🎉 Merged PR [#48](https://github.com/j-tesla/space-shooter/pull/48) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
