@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/kossiitkgp/kwoc-stats-api/issues/15) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-2. ❗️ Opened issue [#15](https://github.com/kossiitkgp/kwoc-stats-api/issues/15) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-3. ❌ Closed PR [#2](https://github.com/j-tesla/virtual-piano/pull/2) in [j-tesla/virtual-piano](https://github.com/j-tesla/virtual-piano)
-4. ❗️ Closed issue [#51](https://github.com/j-tesla/space-shooter/issues/51) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. ❗️ Opened issue [#51](https://github.com/j-tesla/space-shooter/issues/51) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. 🎉 Merged PR [#49](https://github.com/j-tesla/space-shooter/pull/49) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+2. ❗️ Closed issue [#6](https://github.com/j-tesla/space-shooter/issues/6) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🗣 Commented on [#15](https://github.com/kossiitkgp/kwoc-stats-api/issues/15) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+4. ❗️ Opened issue [#15](https://github.com/kossiitkgp/kwoc-stats-api/issues/15) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+5. ❌ Closed PR [#2](https://github.com/j-tesla/virtual-piano/pull/2) in [j-tesla/virtual-piano](https://github.com/j-tesla/virtual-piano)
 <!--END_SECTION:activity-->
 
 </details>
