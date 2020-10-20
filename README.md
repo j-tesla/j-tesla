@@ -18,10 +18,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/kossiitkgp/kwoc-stats-api/issues/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-2. 💪 Opened PR [#16](https://github.com/kossiitkgp/kwoc-stats-api/pull/16) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-3. 🗣 Commented on [#14](https://github.com/kossiitkgp/kwoc-stats-api/issues/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-4. 🎉 Merged PR [#6](https://github.com/j-tesla/kwoc-stats-api/pull/6) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
-5. 💪 Opened PR [#6](https://github.com/j-tesla/kwoc-stats-api/pull/6) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
+2. ❌ Closed PR [#14](https://github.com/kossiitkgp/kwoc-stats-api/pull/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+3. ❌ Closed PR [#10](https://github.com/j-tesla/kwoc-stats-api/pull/10) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
+4. 🗣 Commented on [#14](https://github.com/kossiitkgp/kwoc-stats-api/issues/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+5. 🎉 Merged PR [#12](https://github.com/j-tesla/kwoc-stats-api/pull/12) in [j-tesla/kwoc-stats-api](https://github.com/j-tesla/kwoc-stats-api)
 <!--END_SECTION:activity-->
 
 </details>
