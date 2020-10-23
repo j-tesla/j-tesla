@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/kossiitkgp/kwoc-stats-api/issues/18) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-2. 🗣 Commented on [#14](https://github.com/kossiitkgp/kwoc-stats-api/issues/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-3. 💪 Opened PR [#18](https://github.com/kossiitkgp/kwoc-stats-api/pull/18) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+1. 🗣 Commented on [#16](https://github.com/j-tesla/tic-tac-toe/issues/16) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
+2. 🎉 Merged PR [#16](https://github.com/j-tesla/tic-tac-toe/pull/16) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
+3. 🗣 Commented on [#18](https://github.com/kossiitkgp/kwoc-stats-api/issues/18) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
 4. 🗣 Commented on [#14](https://github.com/kossiitkgp/kwoc-stats-api/issues/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
-5. ❌ Closed PR [#14](https://github.com/kossiitkgp/kwoc-stats-api/pull/14) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
+5. 💪 Opened PR [#18](https://github.com/kossiitkgp/kwoc-stats-api/pull/18) in [kossiitkgp/kwoc-stats-api](https://github.com/kossiitkgp/kwoc-stats-api)
 <!--END_SECTION:activity-->
 
 </details>
