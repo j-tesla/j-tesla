@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/shanmukh05/Portfolio/issues/1) in [shanmukh05/Portfolio](https://github.com/shanmukh05/Portfolio)
-2. ❗️ Opened issue [#1](https://github.com/shanmukh05/Portfolio/issues/1) in [shanmukh05/Portfolio](https://github.com/shanmukh05/Portfolio)
-3. ❌ Closed PR [#18](https://github.com/j-tesla/tic-tac-toe/pull/18) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
-4. 🗣 Commented on [#16](https://github.com/j-tesla/tic-tac-toe/issues/16) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
-5. 🎉 Merged PR [#16](https://github.com/j-tesla/tic-tac-toe/pull/16) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
+1. 🎉 Merged PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
+2. 💪 Opened PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
+3. 🗣 Commented on [#1](https://github.com/shanmukh05/Portfolio/issues/1) in [shanmukh05/Portfolio](https://github.com/shanmukh05/Portfolio)
+4. ❗️ Opened issue [#1](https://github.com/shanmukh05/Portfolio/issues/1) in [shanmukh05/Portfolio](https://github.com/shanmukh05/Portfolio)
+5. ❌ Closed PR [#18](https://github.com/j-tesla/tic-tac-toe/pull/18) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
 <!--END_SECTION:activity-->
 
 </details>
