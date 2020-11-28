@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
-2. 💪 Opened PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
-3. 🎉 Merged PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
-4. 💪 Opened PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
-5. 🗣 Commented on [#1](https://github.com/shanmukh05/Portfolio/issues/1) in [shanmukh05/Portfolio](https://github.com/shanmukh05/Portfolio)
+1. 🎉 Merged PR [#1](https://github.com/j-tesla/portfolio-academic/pull/1) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
+2. 🎉 Merged PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
+3. 💪 Opened PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
+4. 🎉 Merged PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
+5. 💪 Opened PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
 <!--END_SECTION:activity-->
 
 </details>
