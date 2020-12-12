@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/j-tesla/portfolio-academic/pull/1) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
-2. 🎉 Merged PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
-3. 💪 Opened PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
-4. 🎉 Merged PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
-5. 💪 Opened PR [#1](https://github.com/j-tesla/algorithm-implementations/pull/1) in [j-tesla/algorithm-implementations](https://github.com/j-tesla/algorithm-implementations)
+1. 🗣 Commented on [#32](https://github.com/grapheo12/iqps/issues/32) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
+2. 🗣 Commented on [#111](https://github.com/syrusakbary/validate_email/issues/111) in [syrusakbary/validate_email](https://github.com/syrusakbary/validate_email)
+3. 🗣 Commented on [#32](https://github.com/grapheo12/iqps/issues/32) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
+4. 🎉 Merged PR [#1](https://github.com/j-tesla/portfolio-academic/pull/1) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
+5. 🎉 Merged PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
 <!--END_SECTION:activity-->
 
 </details>
