@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/grapheo12/iqps/issues/32) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
-2. 🗣 Commented on [#111](https://github.com/syrusakbary/validate_email/issues/111) in [syrusakbary/validate_email](https://github.com/syrusakbary/validate_email)
+1. 💪 Opened PR [#38](https://github.com/grapheo12/iqps/pull/38) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
+2. 🗣 Commented on [#32](https://github.com/grapheo12/iqps/issues/32) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
 3. 🗣 Commented on [#32](https://github.com/grapheo12/iqps/issues/32) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
-4. 🎉 Merged PR [#1](https://github.com/j-tesla/portfolio-academic/pull/1) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
-5. 🎉 Merged PR [#2](https://github.com/j-tesla/portfolio-academic/pull/2) in [j-tesla/portfolio-academic](https://github.com/j-tesla/portfolio-academic)
+4. 🗣 Commented on [#111](https://github.com/syrusakbary/validate_email/issues/111) in [syrusakbary/validate_email](https://github.com/syrusakbary/validate_email)
+5. 🗣 Commented on [#32](https://github.com/grapheo12/iqps/issues/32) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
 <!--END_SECTION:activity-->
 
 </details>
