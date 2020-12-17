@@ -18,10 +18,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15](https://github.com/shrinish123/GuessMovie/issues/15) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-2. 🗣 Commented on [#16](https://github.com/shrinish123/GuessMovie/issues/16) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-3. ❗️ Opened issue [#16](https://github.com/shrinish123/GuessMovie/issues/16) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-4. 💪 Opened PR [#15](https://github.com/shrinish123/GuessMovie/pull/15) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-5. ❗️ Opened issue [#14](https://github.com/shrinish123/GuessMovie/issues/14) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+2. 🗣 Commented on [#15](https://github.com/shrinish123/GuessMovie/issues/15) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+3. 🗣 Commented on [#16](https://github.com/shrinish123/GuessMovie/issues/16) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+4. ❗️ Opened issue [#16](https://github.com/shrinish123/GuessMovie/issues/16) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+5. 💪 Opened PR [#15](https://github.com/shrinish123/GuessMovie/pull/15) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
 <!--END_SECTION:activity-->
 
 </details>
