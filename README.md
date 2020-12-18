@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying 🏇🏼  algorithms.
+- 🌱 I’m currently learning web development.
 
 - 👯 I’m looking to collaborate on any :snake: *python* project to improve my coding skills.
 
