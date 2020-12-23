@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44](https://github.com/grapheo12/iqps/issues/44) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
-2. 🗣 Commented on [#20](https://github.com/shrinish123/GuessMovie/issues/20) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-3. 🗣 Commented on [#43](https://github.com/grapheo12/iqps/issues/43) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
-4. ❗️ Opened issue [#43](https://github.com/grapheo12/iqps/issues/43) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
-5. ❗️ Opened issue [#20](https://github.com/shrinish123/GuessMovie/issues/20) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+1. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+2. ❗️ Opened issue [#44](https://github.com/grapheo12/iqps/issues/44) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
+3. 🗣 Commented on [#20](https://github.com/shrinish123/GuessMovie/issues/20) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+4. 🗣 Commented on [#43](https://github.com/grapheo12/iqps/issues/43) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
+5. ❗️ Opened issue [#43](https://github.com/grapheo12/iqps/issues/43) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
 <!--END_SECTION:activity-->
 
 </details>
