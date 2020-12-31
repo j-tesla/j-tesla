@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/j-tesla/twitter-bot/pull/4) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
-2. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-3. 🗣 Commented on [#584](https://github.com/GitSquared/edex-ui/issues/584) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-4. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-5. ❗️ Opened issue [#44](https://github.com/grapheo12/iqps/issues/44) in [grapheo12/iqps](https://github.com/grapheo12/iqps)
+1. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+2. 🎉 Merged PR [#4](https://github.com/j-tesla/twitter-bot/pull/4) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
+3. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+4. 🗣 Commented on [#584](https://github.com/GitSquared/edex-ui/issues/584) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+5. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
 <!--END_SECTION:activity-->
 
 </details>
