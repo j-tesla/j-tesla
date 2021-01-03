@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-2. 🎉 Merged PR [#4](https://github.com/j-tesla/twitter-bot/pull/4) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
+1. 🗣 Commented on [#24](https://github.com/shrinish123/GuessMovie/issues/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+2. 💪 Opened PR [#24](https://github.com/shrinish123/GuessMovie/pull/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
 3. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-4. 🗣 Commented on [#584](https://github.com/GitSquared/edex-ui/issues/584) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-5. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+4. 🎉 Merged PR [#4](https://github.com/j-tesla/twitter-bot/pull/4) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
+5. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
 <!--END_SECTION:activity-->
 
 </details>
