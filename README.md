@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/shrinish123/GuessMovie/issues/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-2. 💪 Opened PR [#24](https://github.com/shrinish123/GuessMovie/pull/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-3. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-4. 🎉 Merged PR [#4](https://github.com/j-tesla/twitter-bot/pull/4) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
-5. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+1. ❗️ Opened issue [#255](https://github.com/joshwcomeau/react-flip-move/issues/255) in [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move)
+2. 🗣 Commented on [#24](https://github.com/shrinish123/GuessMovie/issues/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+3. 💪 Opened PR [#24](https://github.com/shrinish123/GuessMovie/pull/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
+4. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+5. 🎉 Merged PR [#4](https://github.com/j-tesla/twitter-bot/pull/4) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
 <!--END_SECTION:activity-->
 
 </details>
