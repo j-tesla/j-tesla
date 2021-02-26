@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-2. ❗️ Opened issue [#255](https://github.com/joshwcomeau/react-flip-move/issues/255) in [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move)
-3. 🗣 Commented on [#24](https://github.com/shrinish123/GuessMovie/issues/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-4. 💪 Opened PR [#24](https://github.com/shrinish123/GuessMovie/pull/24) in [shrinish123/GuessMovie](https://github.com/shrinish123/GuessMovie)
-5. 🗣 Commented on [#964](https://github.com/GitSquared/edex-ui/issues/964) in [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+1. 💪 Opened PR [#5](https://github.com/thealphadollar/GSoCOrgFrequency/pull/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+2. 💪 Opened PR [#1](https://github.com/j-tesla/GSoCOrgFrequency/pull/1) in [j-tesla/GSoCOrgFrequency](https://github.com/j-tesla/GSoCOrgFrequency)
+3. ❗️ Opened issue [#4](https://github.com/thealphadollar/GSoCOrgFrequency/issues/4) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+4. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+5. ❗️ Opened issue [#255](https://github.com/joshwcomeau/react-flip-move/issues/255) in [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move)
 <!--END_SECTION:activity-->
 
 </details>
