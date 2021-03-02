@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/thealphadollar/GSoCOrgFrequency/issues/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-2. 💪 Opened PR [#5](https://github.com/thealphadollar/GSoCOrgFrequency/pull/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-3. 💪 Opened PR [#1](https://github.com/j-tesla/GSoCOrgFrequency/pull/1) in [j-tesla/GSoCOrgFrequency](https://github.com/j-tesla/GSoCOrgFrequency)
-4. ❗️ Opened issue [#4](https://github.com/thealphadollar/GSoCOrgFrequency/issues/4) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-5. 🗣 Commented on [#1](https://github.com/thealphadollar/GSoCOrgFrequency/issues/1) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+1. ❌ Closed PR [#1](https://github.com/j-tesla/GSoCOrgFrequency/pull/1) in [j-tesla/GSoCOrgFrequency](https://github.com/j-tesla/GSoCOrgFrequency)
+2. 🗣 Commented on [#5](https://github.com/thealphadollar/GSoCOrgFrequency/issues/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+3. 💪 Opened PR [#5](https://github.com/thealphadollar/GSoCOrgFrequency/pull/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+4. 💪 Opened PR [#1](https://github.com/j-tesla/GSoCOrgFrequency/pull/1) in [j-tesla/GSoCOrgFrequency](https://github.com/j-tesla/GSoCOrgFrequency)
+5. ❗️ Opened issue [#4](https://github.com/thealphadollar/GSoCOrgFrequency/issues/4) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
 <!--END_SECTION:activity-->
 
 </details>
