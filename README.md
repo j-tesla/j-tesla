@@ -9,9 +9,9 @@
 
 <!--- ⚡ Fun fact: *Python* is older than *C++* and *Java*. -->
 
-- :memo: The languages I use: Well, in the last 30 days, this is what I did:
+- :memo: The languages I use: 
 
-<img src="https://wakatime.com/share/@j_tesla/4d0b7d1e-6b31-4b03-accf-374d3ed5433f.png" alt="wakatime language stats" width="700"/>
+<figure><embed src="https://wakatime.com/share/@j_tesla/186d97f6-7860-4ea4-adf8-9669151ded01.svg"></embed></figure>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
