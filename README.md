@@ -11,8 +11,7 @@
 
 - :memo: The languages I use: 
 
-<figure><embed src="https://wakatime.com/share/@j_tesla/186d97f6-7860-4ea4-adf8-9669151ded01.svg"></embed></figure>
-
+<img src="https://wakatime.com/share/@j_tesla/149011e6-9106-4535-a236-8e4e71b9551e.png" width="700"/>
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
