@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1275](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/1275) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
-2. 💪 Opened PR [#6](https://github.com/thealphadollar/GSoCOrgFrequency/pull/6) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-3. ❌ Closed PR [#1](https://github.com/j-tesla/GSoCOrgFrequency/pull/1) in [j-tesla/GSoCOrgFrequency](https://github.com/j-tesla/GSoCOrgFrequency)
-4. 🗣 Commented on [#5](https://github.com/thealphadollar/GSoCOrgFrequency/issues/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
-5. 💪 Opened PR [#5](https://github.com/thealphadollar/GSoCOrgFrequency/pull/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+1. 💪 Opened PR [#72](https://github.com/kartikey54/VaccineAvailabilityNotifier/pull/72) in [kartikey54/VaccineAvailabilityNotifier](https://github.com/kartikey54/VaccineAvailabilityNotifier)
+2. ❗️ Opened issue [#1275](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io/issues/1275) in [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
+3. 💪 Opened PR [#6](https://github.com/thealphadollar/GSoCOrgFrequency/pull/6) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
+4. ❌ Closed PR [#1](https://github.com/j-tesla/GSoCOrgFrequency/pull/1) in [j-tesla/GSoCOrgFrequency](https://github.com/j-tesla/GSoCOrgFrequency)
+5. 🗣 Commented on [#5](https://github.com/thealphadollar/GSoCOrgFrequency/issues/5) in [thealphadollar/GSoCOrgFrequency](https://github.com/thealphadollar/GSoCOrgFrequency)
 <!--END_SECTION:activity-->
 
 </details>
