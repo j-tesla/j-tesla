@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently into Competetive Programming and Software Development Life Cycles.
+- 🌱 I’m currently into Competetive Programming and Webapp Development.
 
 - 👯 I’m looking to collaborate on any :snake: *python* project to improve my coding skills.
 
