@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#54](https://github.com/j-tesla/space-shooter/pull/54) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-2. 🎉 Merged PR [#60](https://github.com/j-tesla/space-shooter/pull/60) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. 🎉 Merged PR [#61](https://github.com/j-tesla/space-shooter/pull/61) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. ❗️ Closed issue [#63](https://github.com/j-tesla/space-shooter/issues/63) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. ❗️ Opened issue [#63](https://github.com/j-tesla/space-shooter/issues/63) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. 💪 Opened PR [#437](https://github.com/PatrickJS/awesome-angular/pull/437) in [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
+2. ❌ Closed PR [#54](https://github.com/j-tesla/space-shooter/pull/54) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+3. 🎉 Merged PR [#60](https://github.com/j-tesla/space-shooter/pull/60) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. 🎉 Merged PR [#61](https://github.com/j-tesla/space-shooter/pull/61) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. ❗️ Closed issue [#63](https://github.com/j-tesla/space-shooter/issues/63) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
