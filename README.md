@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/j-tesla/phonebook-backend/pull/2) in [j-tesla/phonebook-backend](https://github.com/j-tesla/phonebook-backend)
-2. 🎉 Merged PR [#1](https://github.com/j-tesla/phonebook-backend/pull/1) in [j-tesla/phonebook-backend](https://github.com/j-tesla/phonebook-backend)
-3. 💪 Opened PR [#437](https://github.com/PatrickJS/awesome-angular/pull/437) in [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
-4. ❌ Closed PR [#54](https://github.com/j-tesla/space-shooter/pull/54) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 🎉 Merged PR [#60](https://github.com/j-tesla/space-shooter/pull/60) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. ❗️ Opened issue [#26](https://github.com/hargup/covidsupport/issues/26) in [hargup/covidsupport](https://github.com/hargup/covidsupport)
+2. 🎉 Merged PR [#2](https://github.com/j-tesla/phonebook-backend/pull/2) in [j-tesla/phonebook-backend](https://github.com/j-tesla/phonebook-backend)
+3. 🎉 Merged PR [#1](https://github.com/j-tesla/phonebook-backend/pull/1) in [j-tesla/phonebook-backend](https://github.com/j-tesla/phonebook-backend)
+4. 💪 Opened PR [#437](https://github.com/PatrickJS/awesome-angular/pull/437) in [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
+5. ❌ Closed PR [#54](https://github.com/j-tesla/space-shooter/pull/54) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
