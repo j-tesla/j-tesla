@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/hargup/covidsupport/issues/26) in [hargup/covidsupport](https://github.com/hargup/covidsupport)
-2. 🎉 Merged PR [#2](https://github.com/j-tesla/phonebook-backend/pull/2) in [j-tesla/phonebook-backend](https://github.com/j-tesla/phonebook-backend)
-3. 🎉 Merged PR [#1](https://github.com/j-tesla/phonebook-backend/pull/1) in [j-tesla/phonebook-backend](https://github.com/j-tesla/phonebook-backend)
-4. 💪 Opened PR [#437](https://github.com/PatrickJS/awesome-angular/pull/437) in [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
-5. ❌ Closed PR [#54](https://github.com/j-tesla/space-shooter/pull/54) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. 🎉 Merged PR [#3](https://github.com/j-tesla/blog-list-frontend/pull/3) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+2. 🎉 Merged PR [#5](https://github.com/j-tesla/blog-list-frontend/pull/5) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+3. 🎉 Merged PR [#4](https://github.com/j-tesla/blog-list-frontend/pull/4) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+4. 🎉 Merged PR [#2](https://github.com/j-tesla/blog-list-frontend/pull/2) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+5. 🎉 Merged PR [#1](https://github.com/j-tesla/blog-list-frontend/pull/1) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
 <!--END_SECTION:activity-->
 
 </details>
