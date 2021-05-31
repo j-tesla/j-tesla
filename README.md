@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20963](https://github.com/angular/angular-cli/issues/20963) in [angular/angular-cli](https://github.com/angular/angular-cli)
-2. ❗️ Closed issue [#26](https://github.com/hargup/covidsupport/issues/26) in [hargup/covidsupport](https://github.com/hargup/covidsupport)
-3. 💪 Opened PR [#31](https://github.com/hargup/covidsupport/pull/31) in [hargup/covidsupport](https://github.com/hargup/covidsupport)
-4. 🎉 Merged PR [#7](https://github.com/j-tesla/blog-list/pull/7) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-5. 🎉 Merged PR [#13](https://github.com/j-tesla/blog-list-frontend/pull/13) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+1. 🎉 Merged PR [#9](https://github.com/j-tesla/blog-list/pull/9) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. 🎉 Merged PR [#16](https://github.com/j-tesla/blog-list-frontend/pull/16) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+3. 🎉 Merged PR [#8](https://github.com/j-tesla/blog-list/pull/8) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+4. 🎉 Merged PR [#10](https://github.com/j-tesla/blog-list/pull/10) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+5. 🎉 Merged PR [#17](https://github.com/j-tesla/blog-list-frontend/pull/17) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
 <!--END_SECTION:activity-->
 
 </details>
