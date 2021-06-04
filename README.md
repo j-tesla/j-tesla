@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/lttkgp/falcon/issues/78) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
-2. 🗣 Commented on [#77](https://github.com/lttkgp/falcon/issues/77) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
-3. 🗣 Commented on [#77](https://github.com/lttkgp/falcon/issues/77) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
-4. 💪 Opened PR [#77](https://github.com/lttkgp/falcon/pull/77) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
-5. ❗️ Opened issue [#76](https://github.com/lttkgp/falcon/issues/76) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
+1. 🎉 Merged PR [#18](https://github.com/j-tesla/blog-list-frontend/pull/18) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+2. 🎉 Merged PR [#11](https://github.com/j-tesla/blog-list/pull/11) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+3. ❗️ Opened issue [#78](https://github.com/lttkgp/falcon/issues/78) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
+4. 🗣 Commented on [#77](https://github.com/lttkgp/falcon/issues/77) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
+5. 🗣 Commented on [#77](https://github.com/lttkgp/falcon/issues/77) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
 <!--END_SECTION:activity-->
 
 </details>
