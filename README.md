@@ -16,11 +16,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/j-tesla/lame-blockchain/issues/1) in [j-tesla/lame-blockchain](https://github.com/j-tesla/lame-blockchain)
-2. 🎉 Merged PR [#18](https://github.com/j-tesla/blog-list-frontend/pull/18) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-3. 🎉 Merged PR [#11](https://github.com/j-tesla/blog-list/pull/11) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-4. ❗️ Opened issue [#78](https://github.com/lttkgp/falcon/issues/78) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
-5. 🗣 Commented on [#77](https://github.com/lttkgp/falcon/issues/77) in [lttkgp/falcon](https://github.com/lttkgp/falcon)
+1. 🎉 Merged PR [#12](https://github.com/j-tesla/blog-list/pull/12) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. 🎉 Merged PR [#19](https://github.com/j-tesla/blog-list-frontend/pull/19) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+3. 🎉 Merged PR [#13](https://github.com/j-tesla/blog-list/pull/13) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+4. ❗️ Opened issue [#1](https://github.com/j-tesla/lame-blockchain/issues/1) in [j-tesla/lame-blockchain](https://github.com/j-tesla/lame-blockchain)
+5. 🎉 Merged PR [#18](https://github.com/j-tesla/blog-list-frontend/pull/18) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
 <!--END_SECTION:activity-->
 
 </details>
