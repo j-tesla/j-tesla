@@ -9,9 +9,10 @@
 
 <!--- ⚡ Fun fact: *Python* is older than *C++* and *Java*. -->
 
-- :memo: The languages I use: 
+- :memo: The languages I work on: 
 
-<img src="https://wakatime.com/share/@j_tesla/149011e6-9106-4535-a236-8e4e71b9551e.png" width="700"/>
+<img src="https://wakatime.com/share/@j_tesla/bdf4246a-6e44-4441-87e6-ea13fc96a824.png" width="700"/>
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
