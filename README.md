@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/j-tesla/blog-list/pull/14) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-2. 🎉 Merged PR [#21](https://github.com/j-tesla/blog-list-frontend/pull/21) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-3. ❗️ Opened issue [#64](https://github.com/j-tesla/space-shooter/issues/64) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-4. 🗣 Commented on [#24](https://github.com/j-tesla/tic-tac-toe/issues/24) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
-5. 🎉 Merged PR [#20](https://github.com/j-tesla/blog-list-frontend/pull/20) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+1. 🎉 Merged PR [#15](https://github.com/j-tesla/blog-list/pull/15) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. 🎉 Merged PR [#14](https://github.com/j-tesla/blog-list/pull/14) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+3. 🎉 Merged PR [#21](https://github.com/j-tesla/blog-list-frontend/pull/21) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+4. ❗️ Opened issue [#64](https://github.com/j-tesla/space-shooter/issues/64) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+5. 🗣 Commented on [#24](https://github.com/j-tesla/tic-tac-toe/issues/24) in [j-tesla/tic-tac-toe](https://github.com/j-tesla/tic-tac-toe)
 <!--END_SECTION:activity-->
 
 </details>
