@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Neera-AI/neera-snippet-apps/issues/5) in [Neera-AI/neera-snippet-apps](https://github.com/Neera-AI/neera-snippet-apps)
-2. ❗️ Opened issue [#5](https://github.com/Neera-AI/neera-snippet-apps/issues/5) in [Neera-AI/neera-snippet-apps](https://github.com/Neera-AI/neera-snippet-apps)
-3. 🎉 Merged PR [#38](https://github.com/j-tesla/blog-list/pull/38) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-4. 🎉 Merged PR [#39](https://github.com/j-tesla/blog-list/pull/39) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-5. 🎉 Merged PR [#37](https://github.com/j-tesla/blog-list/pull/37) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+1. ❗️ Opened issue [#4](https://github.com/j-tesla/all-blogs/issues/4) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+2. ❗️ Opened issue [#3](https://github.com/j-tesla/all-blogs/issues/3) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+3. ❗️ Opened issue [#2](https://github.com/j-tesla/all-blogs/issues/2) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+4. 🗣 Commented on [#5](https://github.com/Neera-AI/neera-snippet-apps/issues/5) in [Neera-AI/neera-snippet-apps](https://github.com/Neera-AI/neera-snippet-apps)
+5. ❗️ Opened issue [#5](https://github.com/Neera-AI/neera-snippet-apps/issues/5) in [Neera-AI/neera-snippet-apps](https://github.com/Neera-AI/neera-snippet-apps)
 <!--END_SECTION:activity-->
 
 </details>
