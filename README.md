@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Praneeth-rdy/CV-Buddy/issues/2) in [Praneeth-rdy/CV-Buddy](https://github.com/Praneeth-rdy/CV-Buddy)
-2. ❗️ Opened issue [#4](https://github.com/j-tesla/all-blogs/issues/4) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-3. ❗️ Opened issue [#3](https://github.com/j-tesla/all-blogs/issues/3) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-4. ❗️ Opened issue [#2](https://github.com/j-tesla/all-blogs/issues/2) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-5. 🗣 Commented on [#5](https://github.com/Neera-AI/neera-snippet-apps/issues/5) in [Neera-AI/neera-snippet-apps](https://github.com/Neera-AI/neera-snippet-apps)
+1. ❗️ Opened issue [#5](https://github.com/j-tesla/all-blogs/issues/5) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+2. 🎉 Merged PR [#44](https://github.com/j-tesla/blog-list-frontend/pull/44) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+3. 🗣 Commented on [#2](https://github.com/Praneeth-rdy/CV-Buddy/issues/2) in [Praneeth-rdy/CV-Buddy](https://github.com/Praneeth-rdy/CV-Buddy)
+4. ❗️ Opened issue [#4](https://github.com/j-tesla/all-blogs/issues/4) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+5. ❗️ Opened issue [#3](https://github.com/j-tesla/all-blogs/issues/3) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
 <!--END_SECTION:activity-->
 
 </details>
