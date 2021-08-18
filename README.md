@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/j-tesla/all-blogs/issues/5) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-2. 🎉 Merged PR [#44](https://github.com/j-tesla/blog-list-frontend/pull/44) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-3. 🗣 Commented on [#2](https://github.com/Praneeth-rdy/CV-Buddy/issues/2) in [Praneeth-rdy/CV-Buddy](https://github.com/Praneeth-rdy/CV-Buddy)
-4. ❗️ Opened issue [#4](https://github.com/j-tesla/all-blogs/issues/4) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-5. ❗️ Opened issue [#3](https://github.com/j-tesla/all-blogs/issues/3) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+1. 🎉 Merged PR [#40](https://github.com/j-tesla/blog-list/pull/40) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. ❗️ Opened issue [#5](https://github.com/j-tesla/all-blogs/issues/5) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+3. 🎉 Merged PR [#44](https://github.com/j-tesla/blog-list-frontend/pull/44) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+4. 🗣 Commented on [#2](https://github.com/Praneeth-rdy/CV-Buddy/issues/2) in [Praneeth-rdy/CV-Buddy](https://github.com/Praneeth-rdy/CV-Buddy)
+5. ❗️ Opened issue [#4](https://github.com/j-tesla/all-blogs/issues/4) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
 <!--END_SECTION:activity-->
 
 </details>
