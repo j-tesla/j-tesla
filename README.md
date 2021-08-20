@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently into Competetive Programming and Webapp Development.
+- 🌱 I’m currently studying machine learning, computer architecture and compiler design.
 
-- 👯 I’m looking to collaborate on any :snake: *python* project to improve my coding skills.
+- 👯 I’m looking to collaborate on any *python*/*c++*/*javascript* projects sharpen my skills and get some experience.
 
 - ☕ Get in touch:
   +  Connect on *Linkedin*: [Jayanth PSY](https://www.linkedin.com/in/jayanth-p-b3924812a/)
