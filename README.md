@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/blakehaswell/mongoose-unique-validator/issues/128) in [blakehaswell/mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
-2. 🎉 Merged PR [#49](https://github.com/j-tesla/blog-list/pull/49) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-3. 🎉 Merged PR [#62](https://github.com/j-tesla/blog-list-frontend/pull/62) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-4. 🎉 Merged PR [#48](https://github.com/j-tesla/blog-list/pull/48) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-5. 🎉 Merged PR [#61](https://github.com/j-tesla/blog-list-frontend/pull/61) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+1. 🎉 Merged PR [#64](https://github.com/j-tesla/blog-list-frontend/pull/64) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+2. 🗣 Commented on [#128](https://github.com/blakehaswell/mongoose-unique-validator/issues/128) in [blakehaswell/mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
+3. 🎉 Merged PR [#49](https://github.com/j-tesla/blog-list/pull/49) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+4. 🎉 Merged PR [#62](https://github.com/j-tesla/blog-list-frontend/pull/62) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+5. 🎉 Merged PR [#48](https://github.com/j-tesla/blog-list/pull/48) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
 <!--END_SECTION:activity-->
 
 </details>
