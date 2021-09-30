@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/j-tesla/blog-list-frontend/pull/66) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-2. 🎉 Merged PR [#52](https://github.com/j-tesla/blog-list/pull/52) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-3. 🎉 Merged PR [#65](https://github.com/j-tesla/blog-list-frontend/pull/65) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-4. 🎉 Merged PR [#51](https://github.com/j-tesla/blog-list/pull/51) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-5. 🎉 Merged PR [#50](https://github.com/j-tesla/blog-list/pull/50) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+1. ❗️ Opened issue [#1](https://github.com/j-tesla/github-bookmarks/issues/1) in [j-tesla/github-bookmarks](https://github.com/j-tesla/github-bookmarks)
+2. 🎉 Merged PR [#6](https://github.com/j-tesla/all-blogs/pull/6) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+3. 🎉 Merged PR [#66](https://github.com/j-tesla/blog-list-frontend/pull/66) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+4. 🎉 Merged PR [#52](https://github.com/j-tesla/blog-list/pull/52) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+5. 🎉 Merged PR [#65](https://github.com/j-tesla/blog-list-frontend/pull/65) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
 <!--END_SECTION:activity-->
 
 </details>
