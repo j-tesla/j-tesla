@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/j-tesla/space-shooter/pull/70) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-2. 🗣 Commented on [#58](https://github.com/j-tesla/blog-list/issues/58) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-3. 🗣 Commented on [#88](https://github.com/blakehaswell/mongoose-unique-validator/issues/88) in [blakehaswell/mongoose-unique-validator](https://github.com/blakehaswell/mongoose-unique-validator)
-4. 🎉 Merged PR [#59](https://github.com/j-tesla/blog-list/pull/59) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-5. 🗣 Commented on [#1](https://github.com/j-tesla/github-bookmarks/issues/1) in [j-tesla/github-bookmarks](https://github.com/j-tesla/github-bookmarks)
+1. 🎉 Merged PR [#62](https://github.com/j-tesla/blog-list/pull/62) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. 🎉 Merged PR [#61](https://github.com/j-tesla/blog-list/pull/61) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+3. 🎉 Merged PR [#71](https://github.com/j-tesla/blog-list-frontend/pull/71) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+4. 🎉 Merged PR [#13](https://github.com/j-tesla/all-blogs/pull/13) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+5. 🎉 Merged PR [#70](https://github.com/j-tesla/space-shooter/pull/70) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
