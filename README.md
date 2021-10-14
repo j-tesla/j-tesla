@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/j-tesla/blog-list/pull/62) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-2. 🎉 Merged PR [#61](https://github.com/j-tesla/blog-list/pull/61) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-3. 🎉 Merged PR [#71](https://github.com/j-tesla/blog-list-frontend/pull/71) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
-4. 🎉 Merged PR [#13](https://github.com/j-tesla/all-blogs/pull/13) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-5. 🎉 Merged PR [#70](https://github.com/j-tesla/space-shooter/pull/70) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+1. ❗️ Opened issue [#264](https://github.com/intellij-solidity/intellij-solidity/issues/264) in [intellij-solidity/intellij-solidity](https://github.com/intellij-solidity/intellij-solidity)
+2. 🎉 Merged PR [#62](https://github.com/j-tesla/blog-list/pull/62) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+3. 🎉 Merged PR [#61](https://github.com/j-tesla/blog-list/pull/61) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+4. 🎉 Merged PR [#71](https://github.com/j-tesla/blog-list-frontend/pull/71) in [j-tesla/blog-list-frontend](https://github.com/j-tesla/blog-list-frontend)
+5. 🎉 Merged PR [#13](https://github.com/j-tesla/all-blogs/pull/13) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
 <!--END_SECTION:activity-->
 
 </details>
