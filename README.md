@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/j-tesla/all-blogs/pull/18) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-2. 🎉 Merged PR [#76](https://github.com/j-tesla/space-shooter/pull/76) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-3. 🎉 Merged PR [#8](https://github.com/j-tesla/twitter-bot/pull/8) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
-4. 🎉 Merged PR [#75](https://github.com/j-tesla/space-shooter/pull/75) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
-5. 🎉 Merged PR [#16](https://github.com/j-tesla/all-blogs/pull/16) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+1. 🎉 Merged PR [#19](https://github.com/j-tesla/all-blogs/pull/19) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+2. 🎉 Merged PR [#18](https://github.com/j-tesla/all-blogs/pull/18) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+3. 🎉 Merged PR [#76](https://github.com/j-tesla/space-shooter/pull/76) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
+4. 🎉 Merged PR [#8](https://github.com/j-tesla/twitter-bot/pull/8) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
+5. 🎉 Merged PR [#75](https://github.com/j-tesla/space-shooter/pull/75) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
 </details>
