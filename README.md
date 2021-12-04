@@ -9,7 +9,7 @@
 
 <!--- ⚡ Fun fact: *Python* is older than *C++* and *Java*. -->
 
-- :memo: The languages I work on: 
+- :memo: The languages I use these days: 
 
 <img src="https://wakatime.com/share/@j_tesla/bdf4246a-6e44-4441-87e6-ea13fc96a824.png" width="700"/>
 
