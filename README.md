@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/j-tesla/all-blogs/pull/23) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-2. 🎉 Merged PR [#22](https://github.com/j-tesla/all-blogs/pull/22) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-3. 🎉 Merged PR [#21](https://github.com/j-tesla/all-blogs/pull/21) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
-4. 🎉 Merged PR [#10](https://github.com/j-tesla/twitter-bot/pull/10) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
-5. 🎉 Merged PR [#17](https://github.com/j-tesla/all-blogs/pull/17) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+1. 🎉 Merged PR [#24](https://github.com/j-tesla/all-blogs/pull/24) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+2. 🎉 Merged PR [#23](https://github.com/j-tesla/all-blogs/pull/23) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+3. 🎉 Merged PR [#22](https://github.com/j-tesla/all-blogs/pull/22) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+4. 🎉 Merged PR [#21](https://github.com/j-tesla/all-blogs/pull/21) in [j-tesla/all-blogs](https://github.com/j-tesla/all-blogs)
+5. 🎉 Merged PR [#10](https://github.com/j-tesla/twitter-bot/pull/10) in [j-tesla/twitter-bot](https://github.com/j-tesla/twitter-bot)
 <!--END_SECTION:activity-->
 
 </details>
