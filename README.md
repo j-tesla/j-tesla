@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying machine learning, computer architecture and compiler design.
+- 🌱 I’m currently studying UNIX operating system concepts, network programming and relational database management systems.
 
 - 👯 I’m looking to collaborate on any *python*/*c++*/*javascript* projects sharpen my skills and get some experience.
 
