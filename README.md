@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/j-tesla/blog-list/issues/90) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-2. 🎉 Merged PR [#89](https://github.com/j-tesla/blog-list/pull/89) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-3. ❗️ Opened issue [#405](https://github.com/EndBug/add-and-commit/issues/405) in [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit)
-4. 🎉 Merged PR [#94](https://github.com/j-tesla/blog-list/pull/94) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-5. 🎉 Merged PR [#95](https://github.com/j-tesla/blog-list/pull/95) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+1. 🎉 Merged PR [#91](https://github.com/j-tesla/blog-list/pull/91) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. 🎉 Merged PR [#98](https://github.com/j-tesla/blog-list/pull/98) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+3. 🗣 Commented on [#98](https://github.com/j-tesla/blog-list/issues/98) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+4. 🗣 Commented on [#90](https://github.com/j-tesla/blog-list/issues/90) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+5. 🗣 Commented on [#90](https://github.com/j-tesla/blog-list/issues/90) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
 <!--END_SECTION:activity-->
 
 </details>
