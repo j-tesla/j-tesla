@@ -11,7 +11,7 @@
 
 - :memo: The languages I use these days: 
 
-<img src="https://wakatime.com/share/@j_tesla/bdf4246a-6e44-4441-87e6-ea13fc96a824.png" width="700"/>
+<img src="https://wakatime.com/share/@j_tesla/e1311265-6285-4c3b-93d5-095ff9619aaf.png" width="700"/>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
