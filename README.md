@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🛠 I’m currently interning at [Tower Research Capital](https://www.tower-research.com/) in Core Engineering division.
+<!-- - 🛠 I’m currently interning at [Tower Research Capital](https://www.tower-research.com/) in Core Engineering division. -->
 
 - 👯 I’m looking to collaborate on any *python*/*c++*/*javascript* projects sharpen my skills and get some experience.
 
