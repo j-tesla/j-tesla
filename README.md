@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#167](https://github.com/j-tesla/blog-list/pull/167) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-2. 🎉 Merged PR [#168](https://github.com/j-tesla/blog-list/pull/168) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-3. 🎉 Merged PR [#166](https://github.com/j-tesla/blog-list/pull/166) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
-4. 🎉 Merged PR [#11](https://github.com/j-tesla/music-tube-server/pull/11) in [j-tesla/music-tube-server](https://github.com/j-tesla/music-tube-server)
-5. 🎉 Merged PR [#10](https://github.com/j-tesla/music-tube-server/pull/10) in [j-tesla/music-tube-server](https://github.com/j-tesla/music-tube-server)
+1. 🎉 Merged PR [#172](https://github.com/j-tesla/blog-list/pull/172) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+2. 🎉 Merged PR [#176](https://github.com/j-tesla/blog-list/pull/176) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+3. 🎉 Merged PR [#167](https://github.com/j-tesla/blog-list/pull/167) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+4. 🎉 Merged PR [#168](https://github.com/j-tesla/blog-list/pull/168) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
+5. 🎉 Merged PR [#166](https://github.com/j-tesla/blog-list/pull/166) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
 <!--END_SECTION:activity-->
 
 </details>
