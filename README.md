@@ -21,7 +21,7 @@
 2. 🎉 Merged PR [#23](https://github.com/j-tesla/music-tube-server/pull/23) in [j-tesla/music-tube-server](https://github.com/j-tesla/music-tube-server)
 3. 🎉 Merged PR [#24](https://github.com/j-tesla/music-tube-server/pull/24) in [j-tesla/music-tube-server](https://github.com/j-tesla/music-tube-server)
 4. 🎉 Merged PR [#14](https://github.com/j-tesla/music-tube-server/pull/14) in [j-tesla/music-tube-server](https://github.com/j-tesla/music-tube-server)
-5. ❗️ Closed issue [#5](https://github.com/chandrapavansai/distributed-queue/issues/5) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
+5. 🎉 Merged PR [#172](https://github.com/j-tesla/blog-list/pull/172) in [j-tesla/blog-list](https://github.com/j-tesla/blog-list)
 <!--END_SECTION:activity-->
 
 </details>
