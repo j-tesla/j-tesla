@@ -17,10 +17,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/chandrapavansai/distributed-queue/issues/18) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
-2. ❗️ Closed issue [#16](https://github.com/chandrapavansai/distributed-queue/issues/16) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
-3. ❗️ Closed issue [#17](https://github.com/chandrapavansai/distributed-queue/issues/17) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
-4. ❗️ Closed issue [#20](https://github.com/chandrapavansai/distributed-queue/issues/20) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
+1. 🔒 Closed issue [#18](https://github.com/chandrapavansai/distributed-queue/issues/18) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
+2. 🔒 Closed issue [#16](https://github.com/chandrapavansai/distributed-queue/issues/16) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
+3. 🔒 Closed issue [#17](https://github.com/chandrapavansai/distributed-queue/issues/17) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
+4. 🔒 Closed issue [#20](https://github.com/chandrapavansai/distributed-queue/issues/20) in [chandrapavansai/distributed-queue](https://github.com/chandrapavansai/distributed-queue)
 5. 🎉 Merged PR [#95](https://github.com/j-tesla/space-shooter/pull/95) in [j-tesla/space-shooter](https://github.com/j-tesla/space-shooter)
 <!--END_SECTION:activity-->
 
